@@ -26,8 +26,8 @@ You can ask natural language questions, and the bot will fetch the most relevant
 | **Language** | Python |
 | **Framework** | LangChain |
 | **Vector Database** | Chroma |
-| **Embedding Model** | (e.g. OpenAI / SentenceTransformers / HuggingFace) |
-| **LLM** | OpenAI / HuggingFace model |
+| **Embedding Model** | (e.g. gemini / SentenceTransformers / HuggingFace) |
+| **LLM** | HuggingFace model |
 | **Document Processing** | PyMuPDF or pdfplumber |
 | **Environment** | Virtualenv or Conda 
 
